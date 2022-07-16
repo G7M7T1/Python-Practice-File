@@ -3,7 +3,7 @@ import tkinter
 root = tkinter.Tk()
 root.title('Label Case')
 root.iconbitmap('logo.ico')
-root.geometry('400x400')
+root.geometry('500x500')
 root.resizable(0, 0)
 root.config(bg='blue')
 
@@ -20,7 +20,17 @@ name_label_3.pack(padx=10, pady=60)
 
 name_label_4 = tkinter.Label(root, text="Good Day", bg='#000', fg='green')
 name_label_4.config(font=('Arial', 26))
-name_label_4.pack(pady=20, padx=20)
+name_label_4.pack(pady=(0, 10), padx=20)
+
+name_label_5 = tkinter.Label(root, text='Text 5')
+name_label_5.pack(anchor='w', ipadx=30, ipady=10)
+
+name_label_6 = tkinter.Label(root)
+name_label_6.config(text="Fill X Text")
+name_label_6.pack(fill='x', pady=(10, 20))
+
+name_label_7 = tkinter.Label(root, text="Fill Y Text")
+name_label_7.pack(fill='y', expand=True)
 
 
 # Run Main Loop Here
