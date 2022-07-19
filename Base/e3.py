@@ -33,3 +33,18 @@ def stars2(num):
 
 
 print(stars2(4))
+
+
+# Q3.95 --------------------------------
+def swap(string):
+    result = ""
+    for char in string:
+        if char == char.upper():
+            result += char.lower()
+        else:
+            result += char.upper()
+    return result
+
+
+print(swap("Aloha"))  # returns "aLOHA"
+print(swap("Love you."))  # returns "lOVE YOU."

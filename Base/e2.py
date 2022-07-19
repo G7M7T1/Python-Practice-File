@@ -30,3 +30,35 @@ def stars(num):
 
 stars(1)
 stars(4)
+
+
+# Q2.95 --------------------------------
+def table9to9():
+    for i in range(1, 10):
+        for j in range(1, 10):
+            print(f"{i} * {j} = {i * j}")
+
+
+table9to9()
+
+
+# Q --------------------------------
+def is_prime(n):
+    if n == 1:
+        print("False")
+        return False
+
+    starter = 2
+    while starter < n:
+        if n % starter == 0:
+            print("False")
+            return False
+        starter += 1
+    print("True")
+    return True
+
+
+is_prime(1)  # returns false
+is_prime(5)  # returns true
+is_prime(91)  # returns false
+is_prime(1000000)  # returns false

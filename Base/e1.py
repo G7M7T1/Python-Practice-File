@@ -40,7 +40,33 @@ def table(n):
 
 
 print(table(3))
+
+
 # 3 x 1 = 3
 # 3 x 2 = 6
 # ...
 # 3 x 9 = 27
+
+
+# Q --------------------------------
+def find_min(lst):
+    if len(lst) == 0:
+        return "undefined"
+    result = lst[0]
+    for ele in lst:
+        if ele < result:
+            result = ele
+    return result
+
+
+def my_sort(my_list):
+    result_list = []
+    while len(my_list) > 0:
+        min_element = find_min(my_list)
+        result_list.append(min_element)
+        my_list.remove(min_element)
+    print(result_list)
+    return result_list
+
+
+my_sort([17, 0, -3, 2, 1, 0.5])  # returns [-3, 0, 0.5, 1, 2, 17]
