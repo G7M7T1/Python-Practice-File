@@ -1,0 +1,61 @@
+Study on Brigham Young University Students’ Views and Opinions About Wind Turbines in Hawaii
+
+ABSTRACT
+The main goal of this study is to gather the knowledge of Brigham Young University Hawaii students on wind turbines and their thoughts on using wind power in Hawaii. We conducted a random sampling survey at the BYUH campus to understand their views and opinions about wind turbines. Then, we analyzed the data that was collected from the study. After analyzing the data, the results were discussed, and the most interesting fact from the survey was the highlight of the discussion. Lastly, our results were compared to another researcher’s results.
+
+INTRODUCTION
+The wind is a new energy resource. In the past, people burned coal in electric plants to produce electricity. Recently, people have built wind turbines to generate electric power. A wind turbine is a device that converts wind energy into electric energy. Winds are renewable energy, which will not be exhausted forever. (Green Mountain Energy, 2017) Some people like the idea of building wind turbines to generate power, but some people don’t. Those who want it says that it is renewable energy good for the earth.
+On the other hand, those who don’t like this idea also have concerns, such as the wind is not a stable form of energy. The following are the pros of why we should use wind turbines. 
+People used to use coal and fossil diesel to generate power, which will emit carbon dioxide, a harmful gas to the environment. (Mearns, 2014) It has caused the global warming problem and other serious environmental problems. Besides that, the supply of fossil diesel has been decreasing recently because there is less storage under the earth now. (Lower, 2018) Also, the wind is a clean and infinite resource that we don’t need to spend money to buy it. Most countries in the world are buying fossil diesel to generate power, which is always a significant burden for them. (Choi, 2008)
+There are some reasons that we shouldn’t use wind turbines. First, some people think that wind turbines are destroying landscapes. It will have a bad influence on the local tourism industry. Second, it’s hard to find appropriate sites to build wind turbines farms. The requirements should be a windy place, only a few people live there, and no tall buildings to block the wind. It’s challenging to find homes that meet all the requirements mentioned above. (KHON2 News, 2012) Sometimes they also have to cut down many trees to create a place for building wind turbines. Third, winds may not be stable enough to provide the electricity for our daily usage. During certain months, currents are not as strong as usual. Because of the instability of this resource, it might not be reliable. These are the counterarguments to using wind turbines.
+
+Our study was designed to examine whether wind turbines are an excellent renewable energy resource in Brigham Young University -Hawaii students and the experts in this field. The questions prepared for this survey were:
+1.	What knowledge do Brigham Young University – Hawaii students have about wind turbines in Hawaii?
+2.	What are the views and opinions of Brigham Young University Hawaii students regarding wind turbines in Hawaii?
+
+METHOD
+We chose to conduct the survey is the Brigham Young University Hawaii campus. BYUH is located in Laie, which is on the Northshore of Oahu Island. It usually takes about one and a half hours to drive from Honolulu Airport to Laie. The students here are from seventy different countries. We interviewed a total of 50 students. The study has involved 19 Males and 31 Females participants. Among all the participants, 26% are from America, 38% are from Asia, 30% are from Polynesia, and 6% are from other countries. 
+The survey questions are used to understand the knowledge and thoughts of Brigham Young University students regarding the use of Wind Turbines. There are two background questions that we can get better information about, including gender and nationality. Besides, we use five questions to know their thoughts about wind turbines and if they support them or not. The whole survey questions can be found in the appendix.
+The wind turbine group of the EIL 320 class collected our data from the BYUH library, cafeteria, Polynesian Cultural Center, student dormitory, and language learning center. We ordered the data by interviewing the participants individually. First, we introduced ourselves and told them to survey wind turbines. Second, we asked them questions and then recorded what they said by writing down their words or recording their voice. After collecting the data, we all gathered it in class and then shared it with the group.
+When we gathered in the class, we put the data in a Google sheet, an online sheet to write or edit things on. We uploaded our data to Google Sheets to see and analyze the data in our group. We used the built-in tools in Google sheet to make charts and graphs, which helped us know the gender and nationality proportions. After analyzing the data, we listed the common top five responses. 
+
+
+RESULTS
+Research Question 1 - What knowledge do Brigham Young University – Hawaii students have about wind turbines in Hawaii?
+
+Among all participants (n=50), the most common answer is that 11(22%) of them said they know wind turbines are big fans that use the wind to make energy. The second common answer is that 8(16%) people said that wind turbines produce electricity, and 8(16%) people said wind turbines rely on wind to produce energy. 7(14%) participants said that wind turbines are natural and alternative energy resources, and 6(12%) said that wind turbines are renewable sources. Among 50 BYUH students that we interviewed, 40(80%) of them knew the locations of wind turbines in Hawaii. 31(62%) students knew that there are wind turbines in Kahuku, and 4(8%) said that there were some in the Northshore. 10(20%) students said that they don’t know where they are located, and 5(10%) students were guessing the locations of the wind turbines. After analyzing the data and statistics, above were the results which show the knowledge BYUH students about wind turbines in Hawaii.
+
+Research Question 2- What are the views and opinions of Brigham Young University Hawaii students regarding wind turbines in Hawaii?
+
+Out of 50 students that we collected data from, 23(46%) of them said that the advantage of having wind turbines in Hawaii is that it’s clean, renewable energy. 14(28%) students said that the benefit could be that wind turbines can save more energy. Also, 7(14%) people said that the strong winds in Hawaii are advantages for wind turbines. 3(6%) people mentioned that using wind turbines is cheaper to produce energy because the wind is a domestic resource. Participants also noted the disadvantages of using wind turbines in Hawaii. 11(22%) and 8(16%) of them mentioned that it takes too much space to build the power plants and is too expensive to build the turbines. 7(14%) said that wind turbines are affecting the environment by killing birds and bats around the turbines, while other 7(14%) people said that there might not be enough wind in Hawaii for wind turbines to function correctly. Lastly, 6(12%) reported their concern that turbines can disturb the community. 
+In this survey, 41(82%) people said that they do support the use of wind power in Hawaii, while 7(14) people said they don’t, and 2(4%) people take a neutral stance. Out of those (n=41) who support the use of wind power, 9 (18%) of them support it because they think they will get cheaper electricity bills. 9(18%) of them said they keep it because Hawaii is windy. 6(12%) people said that wind is a renewable source, so they think it’s good for Hawaii. 6(12%) people mentioned that wind turbines don’t cause air pollution, so that’s why they support it. Seven participants of this survey said that they don’t support the use of wind power. The reasons mentioned were it’s ugly, or it’s useless. 
+We also asked them how they would feel if wind turbines were located near their home. 13(26%) of them said it’s noisy. 7(14%) of them said it’s OK, they don’t mind, and 30(60%) of them gave different answers. The statistics above are the views and opinions we got from our survey and numerical analysis. 
+
+DISCUSSION
+
+The primary purpose of our research is to understand and evaluate what the students in BYUH know about wind turbines and their thoughts and opinions on the use of wind turbines in Hawaii.
+    One thing that was interesting in our survey results was that, even though most of the interviewees (82%) support the use of wind turbines in Hawaii, only 8 (16%) people of them were fine with the wind turbines being located near their homes. Of those who gave positive answers in the survey, 6 of 8 (75%) also mentioned that they would only be okay if it were not too loud. There are some possible reasons behind it. One of them could be the free-rider effect. Despite the majority (82%) agreeing on the benefit of wind turbines, they would instead not prefer having it near their homes.
+Not only the survey we conducted on the BYUH campus has shown this exciting result, but other researchers have also found the same things in their survey. A survey result from Campbell has presented that including the US, UK, and Australia, most people favor wind turbines, but it doesn’t mean that they are willing to have them operating near their doorsteps (Campbell, 2014). In the article, he mentioned that protests and claims for cheaper electricity bills of local people are widespread when deciding the locations of wind turbines. Regarding the decision on sites, the biggest obstacle to developing wind power comes through the public as they would prefer not to have it around their neighborhood and private properties.
+The study can provide valuable data for Hawaii State Energy Department in deciding whether to build wind turbines or not and where to build them. Knowing people’s feelings about wind turbines being around their homes can estimate whether the locations are appropriate for building wind turbines.
+There are some limitations to our research. First, we only randomly interviewed BYUH students to know their opinions about wind turbines instead of questioning the residents. Second, the sample size (n=50) could not be enough to represent the whole school, which currently has 2952 students.
+  For future study, it could be conducted on a large number of sample sizes. The large sample size could be helpful to find out the detailed thoughts and opinions of BYUH students regarding wind turbines. Also, further study can be surveyed the residents. Their opinions are more essential for Hawaii State Energy Department as they are the ones who will live here for decades, while the students in BYUH usually only stay in Hawaii for around four years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+Choi, C. Q. (2008, November 17). The Energy Debates: Wind Farms - Live Science. Retrieved November 2, 2018, from https://www.livescience.com/3083-energy-debates-wind-farms.html
+Campbell, S. (2014, May 30). The challenges of finding the best sites for wind development. Retrieved from https://www.windpowermonthly.com/article/1296011/challenges-finding-best-sites-wind-development
+Green Mountain Energy. (2017, October 3). Renewable Energy 101: How Does Wind Energy Work? Retrieved from https://www.youtube.com/watch?v=mtlvjo5nSqo
+KHON2 News. (2015, September 31). Kahuku residents are concerned about the proposed new wind farm. Retrieved from https://www.youtube.com/watch?v=AntR6aPHyTo
+Lower, G. (2018, September 22). Debate on wind energy projects continues. Retrieved from https://www.wind-watch.org/news/2018/09/22/debate-on-wind-energy-project-continues/
+Mearns, E. (2014, April 28). The Arguments for and Against Wind Power. Retrieved from http://euanmearns.com/the-arguments-for-and-against-wind-power/
